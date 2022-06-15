@@ -1,0 +1,11 @@
+D:\Semester 4\Prakt.Pemrograman Visual\UTS PV\UTS PV\bin\Debug\UTS PV.exe
+D:\Semester 4\Prakt.Pemrograman Visual\UTS PV\UTS PV\bin\Debug\UTS PV.pdb
+D:\Semester 4\Prakt.Pemrograman Visual\UTS PV\UTS PV\obj\Debug\UTS PV.csprojResolveAssemblyReference.cache
+D:\Semester 4\Prakt.Pemrograman Visual\UTS PV\UTS PV\obj\Debug\UTS_PV.Barang.resources
+D:\Semester 4\Prakt.Pemrograman Visual\UTS PV\UTS PV\obj\Debug\UTS_PV.Dashboard.resources
+D:\Semester 4\Prakt.Pemrograman Visual\UTS PV\UTS PV\obj\Debug\UTS_PV.Kasir.resources
+D:\Semester 4\Prakt.Pemrograman Visual\UTS PV\UTS PV\obj\Debug\UTS_PV.Pembelian.resources
+D:\Semester 4\Prakt.Pemrograman Visual\UTS PV\UTS PV\obj\Debug\UTS PV.csproj.GenerateResource.Cache
+D:\Semester 4\Prakt.Pemrograman Visual\UTS PV\UTS PV\obj\Debug\UTS PV.exe
+D:\Semester 4\Prakt.Pemrograman Visual\UTS PV\UTS PV\obj\Debug\UTS PV.pdb
+D:\Semester 4\Prakt.Pemrograman Visual\UTS PV\UTS PV\obj\Debug\UTS_PV.DetailPembelian.resources
